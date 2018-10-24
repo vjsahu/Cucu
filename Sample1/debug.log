@@ -1,0 +1,33 @@
+[0714/172836.363:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0714/172836.373:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0714/172836.374:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0714/173246.581:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0714/173246.582:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0714/173246.583:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0714/173709.990:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0714/173709.993:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0714/173709.994:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0714/175350.876:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0714/175350.878:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0714/175350.879:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0714/175548.591:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0714/175548.592:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0714/175548.593:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1118/082103.204:ERROR:process_info.cc(632)] range at 0x262827fe00000000, size 0xcf fully unreadable
+[1118/082103.204:ERROR:process_info.cc(632)] range at 0x2628281e00000000, size 0xcf fully unreadable
+[1118/082103.204:ERROR:process_info.cc(632)] range at 0x0, size 0xcf fully unreadable
+[1118/082145.011:ERROR:process_reader_win.cc(242)] ReadMemory at 0xcf28f47f80 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1118/082145.012:ERROR:crash_report_exception_handler.cc(116)] WriteEverything failed
+[1221/003906.380:ERROR:process_info.cc(632)] range at 0x21e5273c00000000, size 0x41 fully unreadable
+[1221/003906.410:ERROR:process_info.cc(632)] range at 0x21e5275c00000000, size 0x41 fully unreadable
+[1221/003906.410:ERROR:process_info.cc(632)] range at 0x0, size 0x41 fully unreadable
+[1221/003912.129:ERROR:process_info.cc(632)] range at 0x1a1d273e00000000, size 0x10 fully unreadable
+[1221/003912.130:ERROR:process_info.cc(632)] range at 0x1a1d275e00000000, size 0x10 fully unreadable
+[1221/003912.130:ERROR:process_info.cc(632)] range at 0x0, size 0x10 fully unreadable
+[1221/003958.785:ERROR:process_info.cc(632)] range at 0x3ef8273c00000000, size 0xfe fully unreadable
+[1221/003958.785:ERROR:process_info.cc(632)] range at 0x3ef8275c00000000, size 0xfe fully unreadable
+[1221/003958.785:ERROR:process_info.cc(632)] range at 0x0, size 0xfe fully unreadable
+[0726/184156.822:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0726/184156.881:ERROR:exception_snapshot_win.cc(88)] thread ID 5596 not found in process
+[0726/184444.229:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0726/184444.330:ERROR:exception_snapshot_win.cc(88)] thread ID 6320 not found in process
